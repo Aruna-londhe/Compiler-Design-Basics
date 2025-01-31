@@ -33,8 +33,7 @@
 >Platform Used:
 	•	Operating System: The program can be executed on any operating system, including:
 	•	Windows (gcc)
-
-	•	Command Line/Terminal: The program is generally compiled and executed through the command line or terminal interface (using gcc to compile and ./program_name to run).
+        •	Command Line/Terminal: The program is generally compiled and executed through the command line or terminal interface (using gcc to compile and ./program_name to run).
 
 >How This Task Can Be Applied:
 	1.	Compilers:
