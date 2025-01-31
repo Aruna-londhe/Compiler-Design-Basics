@@ -60,3 +60,4 @@ In summary, this lexical analyzer demonstrates an essential component of languag
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/f8bec08d-d388-4ad2-abb6-15201ad276ac)
