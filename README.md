@@ -57,3 +57,6 @@
 	•	Flexible Application: It’s highly adaptable and can be used in many tools related to code processing, from editors to full-fledged compilers and analyzers.
 
 In summary, this lexical analyzer demonstrates an essential component of language processing, making it applicable to compiler design, programming language development, static code analysis, and other areas of text processing.
+
+OUTPUT:
+
